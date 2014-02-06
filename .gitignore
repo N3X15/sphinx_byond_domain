@@ -1,0 +1,4 @@
+*.pyc
+/dist
+/build
+/sphinxcontrib_byonddomain.egg-info
